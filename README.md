@@ -1,4 +1,4 @@
-# PocketMine-Plugin-For-PhpStrom
+# PocketMine Plugin For PhpStrom
 
 # How to install 
 1. Open PhpStrom IDE
